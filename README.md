@@ -1,6 +1,8 @@
 # diff-speed-20261127
 
-[![make.fun](https://make.fun/c/diff-speed-01-run-20261126/badge)](https://make.fun/c/diff-speed-01-run-20261126)
+[![make.fun · diff-speed-01-run-20261126](https://make.fun/badge/diff-speed-01-run-20261126.svg)](https://make.fun/bounty/diff-speed-01-run-20261126?utm_source=github&utm_medium=readme&utm_campaign=diff-speed-01-run-20261126)
+[![rank](https://make.fun/badge/diff-speed-01-run-20261126/L200150013/diff-speed-20261127/rank.svg)](https://make.fun/bounty/diff-speed-01-run-20261126/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=diff-speed-01-run-20261126)
+[![reward](https://make.fun/badge/diff-speed-01-run-20261126/L200150013/diff-speed-20261127/reward.svg)](https://make.fun/bounty/diff-speed-01-run-20261126?utm_source=github&utm_medium=readme&utm_campaign=diff-speed-01-run-20261126)
 
 A faster drop-in for makefun-diff 1.0.0, for the [make.fun competition "Diff two texts faster, 27 November 2026"](https://make.fun/c/diff-speed-01-run-20261126) ($100, 10 places).
 
